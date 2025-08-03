@@ -113,7 +113,7 @@ Misuse of this tool can be illegal. The developer is not responsible for any dam
 ## 👨‍💻 Author
 
 * **Vivek Dhobale**
-* GitHub: [github.com/VivekXploit](https://github.com/VivekXploit)
+* GitHub: [github.com/VivekXploit](https://github.com/VivekDhobale-VivekXploit)
 * LinkedIn: [linkedin.com/in/vivek-dhobale-vr](https://www.linkedin.com/in/vivek-dhobale-vr)
 
 ---
