@@ -1,0 +1,7 @@
+# Required Python packages
+scapy
+
+# Required external tools (not Python installable, listed for clarity)
+# aircrack-ng suite: airmon-ng, airodump-ng, aireplay-ng
+# nmap
+# metasploit-framework (for msfvenom)
