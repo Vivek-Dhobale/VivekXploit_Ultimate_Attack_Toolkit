@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## 📥 Setup & Run
 
 ```bash
-sudo python3 VivekXploit_Ultimate.py
+sudo python3 Vivekxploit_Ultimate_Cracker.py
 ```
 
 ## 🧪 Usage Instructions
