@@ -1,5 +1,5 @@
 # Required Python packages
-scapy (optional)
+# scapy (optional)
 
 # Required external tools (not Python installable, listed for clarity)
 # aircrack-ng suite: airmon-ng, airodump-ng, aireplay-ng
