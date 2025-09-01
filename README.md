@@ -1,6 +1,3 @@
-# Ultimate_WiFi_Attack_Toolkit
-<b>VivekXploit Ultimate is an advanced Python-based Wi-Fi attack toolkit for ethical hackers. It features deauthentication attacks, Nmap network scanning, and Android reverse shell payload generation via Metasploit. Designed for penetration testing with external Wi-Fi adapters in Kali Linux.</b>
-
 # VivekXploit - ULTIMATE Wi-Fi Attack Toolkit
 
 ```
@@ -15,7 +12,7 @@ __     ___           _    __  __      _       _ _
 
 ## 🔥 Overview
 
-VivekXploit Ultimate is an advanced Python-based Wi-Fi attack toolkit designed for **authorized penetration testing and educational use**. It combines:
+Ultimate is an advanced Python-based Wi-Fi attack toolkit for ethical hackers. It features deauthentication attacks, Nmap network scanning, and Android reverse shell payload generation via Metasploit.Designed for **authorized penetration testing and educational use**. It combines:
 
 * ✅ **Deauthentication (DoS) attacks** on Wi-Fi networks
 * ✅ **Nmap scanning** of local networks
@@ -115,7 +112,7 @@ Misuse of this tool can be illegal. The developer is not responsible for any dam
 * **Vivek Dhobale**
 - GitHub: [VivekXploit](https://github.com/Vivek-Dhobale)  
 - Email: dhobalevivek23@gmail.com
--LinkedIn:[Vivek-Dhobale](https://www.linkedin.com/in/vivek-dhobale-vr)
+- LinkedIn:[Vivek-Dhobale](https://www.linkedin.com/in/vivek-dhobale-vr)
 
 ---
 
