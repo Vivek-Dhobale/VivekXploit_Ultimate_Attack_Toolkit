@@ -119,3 +119,7 @@ Misuse of this tool can be illegal. The developer is not responsible for any dam
 ---
 
 Made with ❤️ for ethical hackers and learners.
+
+---
+
+**⭐ If this project was helpful, please consider to leaving a **star** to support it!**
