@@ -111,7 +111,7 @@ Misuse of this tool can be illegal. The developer is not responsible for any dam
 
 * **Vivek Dhobale**
 - GitHub: [VivekXploit](https://github.com/Vivek-Dhobale)  
-- Email: dhobalevivek23@gmail.com
+- Email: vivek.m.dhobale@gmail.com
 - LinkedIn:[Vivek-Dhobale](https://www.linkedin.com/in/vivek-dhobale-vr)
 
 ---
